@@ -3,7 +3,7 @@ package ModelElements;
 import Stuff.Angel3D;
 import Stuff.Point3D;
 
-public class Camera extends SceneElement{
+public class Camera{
     public Point3D location;
     public Angel3D angle;    
 
