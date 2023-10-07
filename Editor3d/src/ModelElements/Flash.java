@@ -9,7 +9,7 @@ public class Flash{
     public Point3D location;
     public Angel3D angle;
     public Color color;
-    public Float power;
+    public float power;
 
 
     public Flash(Point3D location, Angel3D angle, Color color, Float power) {

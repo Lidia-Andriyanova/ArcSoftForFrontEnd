@@ -15,6 +15,7 @@ public class PoligonalModel{
         this.poligons = new ArrayList<Poligon>();
 
         List<Point3D> points = new ArrayList<>();
+        points.add(new Point3D());
         this.poligons.add(new Poligon(points));
     }
 }
